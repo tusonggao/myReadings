@@ -33,6 +33,8 @@
     https://adeshpande3.github.io/adeshpande3.github.io/?_blank
 	
 	https://blog.paralleldots.com/data-science/must-read-blogs-ai-deep-learning-enthusiasts/?_blank
+	
+	https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned
     
 
 ## NLP
@@ -53,6 +55,9 @@
 	
 	18分钟训练ImageNet模型
 	https://github.com/diux-dev/imagenet18
+	
+	A Neural Net Training Interface on TensorFlow
+	https://github.com/tensorpack/tensorpack
 	
 
 	
