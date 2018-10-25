@@ -10,8 +10,11 @@
 
     https://adeshpande3.github.io/adeshpande3.github.io/
 	
-- [X] 『其他资源
+- [X] 『其他资源』
+
     [Papers with Code](https://github.com/zziz/pwc)
+	
+	[Fast.ai](http://www.fast.ai/)
 
 	
 
