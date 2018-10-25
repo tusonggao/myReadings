@@ -15,7 +15,6 @@
     [Papers with Code](https://github.com/zziz/pwc)
 	
 	[Fast.ai](http://www.fast.ai/)
-
 	
 
 ## 深度学习
@@ -36,6 +35,9 @@
 	
 	https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned
     
+- [X] 『领域大牛』
+    http://colah.github.io/
+	
 
 ## NLP
 
@@ -45,7 +47,10 @@
 
 - [X] 『优秀博客』
 
-    http://www.hankcs.com/nlp/?_blank?_blank
+    [斯坦福NLP组主页](https://nlp.stanford.edu/)
+
+    http://www.hankcs.com/nlp/?_blank?_blank	
+	
 	
 - [X] 『有趣项目』
 	
