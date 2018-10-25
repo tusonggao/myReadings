@@ -4,6 +4,8 @@
 
 - [X] 『在线课程程』
     
+	<a href="https://bloomberg.github.io/foml/#home?_blank" target="_blank">Blomberg机器学习教程</a>
+	
 	[Blomberg机器学习教程](https://bloomberg.github.io/foml/#home?_blank)
 
 - [X] 『优秀博客』
