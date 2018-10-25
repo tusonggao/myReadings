@@ -3,14 +3,16 @@
 ## 机器学习
 
 - [X] 『在线课程程』
-    
-	<a href="https://bloomberg.github.io/foml/#home" target="_blank">Blomberg机器学习教程</a>
 	
-	[Blomberg机器学习教程](https://bloomberg.github.io/foml/#home?_blank)
+	[Blomberg机器学习教程](https://bloomberg.github.io/foml/#home)
 
 - [X] 『优秀博客』
 
-    https://adeshpande3.github.io/adeshpande3.github.io/?_blank
+    https://adeshpande3.github.io/adeshpande3.github.io/
+	
+- [X] 『其他资源
+    [Papers with Code](https://github.com/zziz/pwc)
+
 	
 
 ## 深度学习
@@ -45,6 +47,9 @@
 	https://github.com/adeshpande3/LSTM-Sentiment-Analysis?_blank
 	
 	https://adeshpande3.github.io/adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me?_blank
+	
+	18分钟训练ImageNet模型
+	https://github.com/diux-dev/imagenet18
 	
 
 	
