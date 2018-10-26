@@ -28,6 +28,9 @@
 	[斯坦福卷积神经网络机器视觉课程](http://cs231n.stanford.edu/?_blank)
 	
 	[Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?_blank)
+	
+	[Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
+	 Assignmends done for above MOOC course: https://github.com/khanhnamle1994/deep-learning
 
 - [X] 『优秀博客』
 
@@ -35,7 +38,7 @@
 	
 	https://blog.paralleldots.com/data-science/must-read-blogs-ai-deep-learning-enthusiasts/?_blank
 	
-	https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned
+	https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned 
     
 - [X] 『领域大牛』
     http://colah.github.io/
