@@ -16,6 +16,8 @@
 	
 	[Fast.ai](http://www.fast.ai/)
 	
+	https://www.coursera.org/learn/competitive-data-science/
+	
 
 ## 深度学习
 
