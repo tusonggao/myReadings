@@ -48,7 +48,8 @@
 
 - [X] 『在线课程』
 
-    https://web.stanford.edu/class/cs224n/?_blank
+    https://web.stanford.edu/class/cs224n/?_blank  
+	https://www.youtube.com/watch?v=ERibwqs9p38&index=2&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 - [X] 『优秀博客』
 
